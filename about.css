@@ -1,6 +1,6 @@
 body {
     background-image:url(images/valentines.webp);
-    
+
     
 }
 
@@ -30,6 +30,6 @@ th, td {
     font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: dotted 3px;
-    border-spacing: 15px;
-    border-collapse: separate;
+    padding: 20px;
+
 }

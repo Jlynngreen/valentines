@@ -1,5 +1,6 @@
 body {
-    background: pink;
+    background-image:url(images/valentines4.jpg);
+    background-position: center;
 }
 
 h2 {
@@ -13,6 +14,7 @@ p {
     font-family: cursive;
     font-size: 30px;
     text-align: center;
+    
 }
 
 .button-1, .button-2, .button-3{
