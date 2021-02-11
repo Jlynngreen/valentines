@@ -1,0 +1,34 @@
+body {
+    background: maroon;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+
+img {
+    padding: 50px;
+    width: 300px;
+    border: 8px solid;
+    float: left;
+    height: 500px;
+    font-family: Veranda;
+}
+
+.heading {
+    float:center;
+    
+
+}
