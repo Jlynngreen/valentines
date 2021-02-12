@@ -14,7 +14,7 @@ p {
     font-size: 50px;
     text-align: center;
     display: inline-block;
-    text-size-adjust: right;
+    
 
 }
 
@@ -30,7 +30,7 @@ img {
 
 .heading {
     float:center;
-    flex-wrap: wrap;
+   
     
 
 }
